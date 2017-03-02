@@ -1,0 +1,2 @@
+# Tizen
+Jihyeok , Sungjoon
